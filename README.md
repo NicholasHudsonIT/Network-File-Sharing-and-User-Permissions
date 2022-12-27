@@ -18,7 +18,7 @@ In this tutorial, we will experiment with Network Security Groups.
 
 </p>
 <p>
-In this lab we will be setting up different shared network files & designate access permissions using the same Virtual Machines set up in a previous lab. We will create folders on our Domain Controller Virtual Machine (DC-1) and share them on the "mydomain.com" network, and each folder will have certain individual permissions. Only designated users will be able to view specific files. We'll start by going to the C:/ drive on the DC-1 machine and create four folders: "read-access," "read/write-access," "no-access," and "accounting".
+In this lab we will be setting up different shared network files & designate access permissions using the same Virtual Machines set up in our Active Directory lab. We will create folders on our Domain Controller Virtual Machine (DC-1) and share them on the "mydomain.com" network, and each folder will have certain individual permissions. Only designated users will be able to view specific files. We'll start by going to the C:/ drive on the DC-1 machine and create four folders: "read-access," "read/write-access," "no-access," and "accounting".
 </p>
 <br />
 
