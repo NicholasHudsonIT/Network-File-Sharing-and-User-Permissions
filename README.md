@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/AeiqMDZ.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/AeiqMDZ.png"/>
 </p>
 
-<h1>Network File Shares and Permissions</h1>
+<h1>Network File Sharing and Permissions</h1>
 In this tutorial, we will experiment with Network Security Groups. 
 <br />
 
